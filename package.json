@@ -1,0 +1,23 @@
+{
+  "name": "book-directory",
+  "version": "1.0.0",
+  "description": "book directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ese-varo/book-directory.git"
+  },
+  "author": "Alvaro Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ese-varo/book-directory/issues"
+  },
+  "homepage": "https://github.com/ese-varo/book-directory#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
